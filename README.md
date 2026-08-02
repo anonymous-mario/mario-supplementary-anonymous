@@ -33,6 +33,7 @@ Each example contains the original agent views, the task presented to the annota
 ### Human Response
 
 **Prediction:** South
+
 **Ground Truth:** **South**
 
 ## Required Spatial Reasoning
@@ -69,6 +70,7 @@ Each example contains the original agent views, the task presented to the annota
 ### Human Response
 
 **Prediction:** North
+
 **Ground Truth:** **North**
 
 ## Required Spatial Reasoning
@@ -106,6 +108,7 @@ Each example contains the original agent views, the task presented to the annota
 ### Human Response
 
 **Prediction:** North
+
 **Ground Truth:** **North**
 
 ## Required Spatial Reasoning
