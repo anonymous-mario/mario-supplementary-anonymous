@@ -222,8 +222,6 @@ Each example contains the original agent views, the task presented to the annota
 
 ## Task
 
-**Question ID:** 2514
-
 **Motion:** Agent 3 moves **backward**.
 
 **Question:** How should this motion be interpreted in **Agent 2's** local reference frame?
